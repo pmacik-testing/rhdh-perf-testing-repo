@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-1
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: group1
+  definition:
+    $text: http://web-rhdh-performance.apps.pmacik-test.ci.stonesoupengineering.com/APIs/archive.org/wayback/1.0.0/openapi.yaml
