@@ -1,0 +1,2300 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-1
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-2
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-3
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-4
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-5
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-6
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-7
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-8
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-9
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-10
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-11
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-12
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-13
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-14
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-15
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-16
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-17
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-18
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-19
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-20
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-21
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-22
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-23
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-24
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-25
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-26
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-27
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-28
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-29
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-30
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-31
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-32
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-33
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-34
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-35
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-36
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-37
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-38
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-39
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-40
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-41
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-42
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-43
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-44
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-45
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-46
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-47
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-48
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-49
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-50
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-51
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-52
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-53
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-54
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-55
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-56
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-57
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-58
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-59
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-60
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-61
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-62
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-63
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-64
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-65
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-66
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-67
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-68
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-69
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-70
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-71
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-72
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-73
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-74
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-75
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-76
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-77
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-78
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-79
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-80
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-81
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-82
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-83
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-84
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-85
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-86
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-87
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-88
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-89
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-90
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-91
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-92
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-93
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-94
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-95
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-96
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-97
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-98
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-99
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: playback-sdk-100
+  description: Audio and video playback SDK
+spec:
+  type: library
+  lifecycle: experimental
+  owner: g1
+  system: audio-playback
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-1
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-2
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-3
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-4
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-5
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-6
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-7
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-8
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-9
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-10
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-11
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-12
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-13
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-14
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-15
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-16
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-17
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-18
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-19
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-20
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-21
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-22
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-23
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-24
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-25
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-26
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-27
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-28
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-29
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-30
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-31
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-32
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-33
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-34
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-35
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-36
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-37
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-38
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-39
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-40
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-41
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-42
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-43
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-44
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-45
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-46
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-47
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-48
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-49
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-50
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-51
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-52
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-53
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-54
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-55
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-56
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-57
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-58
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-59
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-60
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-61
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-62
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-63
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-64
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-65
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-66
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-67
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-68
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-69
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-70
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-71
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-72
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-73
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-74
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-75
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-76
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-77
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-78
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-79
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-80
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-81
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-82
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-83
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-84
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-85
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-86
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-87
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-88
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-89
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-90
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-91
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-92
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-93
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-94
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-95
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-96
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-97
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-98
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-99
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+---
+apiVersion: backstage.io/v1alpha1
+kind: API
+metadata:
+  name: wayback-archive-100
+  description: Archive API for the wayback copy machine
+spec:
+  type: openapi
+  lifecycle: production
+  owner: g1
+  definition:
+    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
