@@ -1,0 +1,27 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: g1
+  namespace: default
+  description: "Group #1"
+spec:
+  type: team
+  profile:
+    displayName: "Group #1"
+  members:
+    - t1
+  children: []
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: t1
+  namespace: default
+  description: "Test User #1"
+spec:
+  profile:
+    displayName: "Test User #1"
+    email: t1@test.com
+  memberOf:
+    - g1
