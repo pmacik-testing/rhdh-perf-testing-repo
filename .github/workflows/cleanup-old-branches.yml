@@ -1,0 +1,103 @@
+name: Cleanup Old Branches
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  cleanup-branches:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to delete branches
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history to check branch dates
+      
+      - name: Setup Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Delete old branches
+        env:
+          EXCLUDED_BRANCHES: "main 1000-apis 1000-components"
+          BRANCH_AGE_DAYS: 7
+        run: |
+          # Get current date in seconds since epoch
+          CURRENT_DATE=$(date +%s)
+          AGE_SECONDS=$((BRANCH_AGE_DAYS * 24 * 60 * 60))
+          
+          # Fetch all remote branches
+          git fetch --prune
+          
+          # Get all remote branches except the excluded ones
+          # Filter out HEAD, empty lines, and branches that are just "origin"
+          BRANCHES=$(git branch -r --format='%(refname:short)' | sed 's|^origin/||' | grep -vE '^(HEAD|origin$|)$')
+          
+          echo "Checking branches for cleanup..."
+          echo "Excluded branches: $EXCLUDED_BRANCHES"
+          echo "Branch age threshold: $BRANCH_AGE_DAYS days"
+          
+          DELETED_COUNT=0
+          SKIPPED_COUNT=0
+          
+          for BRANCH in $BRANCHES; do
+            # Skip empty or invalid branch names
+            if [ -z "$BRANCH" ] || [ "$BRANCH" = "origin" ]; then
+              continue
+            fi
+            
+            # Skip excluded branches
+            SKIP=false
+            for EXCLUDED in $EXCLUDED_BRANCHES; do
+              if [[ "$BRANCH" == $EXCLUDED ]]; then
+                SKIP=true
+                break
+              fi
+            done
+            
+            if [ "$SKIP" = true ]; then
+              echo "Skipping excluded branch: $BRANCH"
+              SKIPPED_COUNT=$((SKIPPED_COUNT + 1))
+              continue
+            fi
+            
+            # Get the last commit date for this branch
+            LAST_COMMIT_DATE=$(git log -1 --format=%ct origin/$BRANCH 2>/dev/null)
+            
+            if [ -z "$LAST_COMMIT_DATE" ]; then
+              echo "Warning: Could not get date for branch $BRANCH, skipping"
+              continue
+            fi
+            
+            # Calculate branch age
+            BRANCH_AGE=$((CURRENT_DATE - LAST_COMMIT_DATE))
+            
+            if [ $BRANCH_AGE -gt $AGE_SECONDS ]; then
+              BRANCH_AGE_DAYS_CALC=$((BRANCH_AGE / 86400))
+              echo "Deleting branch '$BRANCH' (age: $BRANCH_AGE_DAYS_CALC days)"
+              
+              # Delete the remote branch
+              git push origin --delete "$BRANCH" 2>&1 || echo "Failed to delete $BRANCH (may be protected or already deleted)"
+              
+              if [ $? -eq 0 ]; then
+                DELETED_COUNT=$((DELETED_COUNT + 1))
+                echo "Successfully deleted branch: $BRANCH"
+              fi
+            else
+              BRANCH_AGE_DAYS_CALC=$((BRANCH_AGE / 86400))
+              echo "Keeping branch '$BRANCH' (age: $BRANCH_AGE_DAYS_CALC days)"
+            fi
+          done
+          
+          echo ""
+          echo "Summary:"
+          echo "  Deleted branches: $DELETED_COUNT"
+          echo "  Skipped branches: $SKIPPED_COUNT"
+          echo "  Total branches checked: $((DELETED_COUNT + SKIPPED_COUNT))"
+
