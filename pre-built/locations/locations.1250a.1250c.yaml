@@ -1,0 +1,13 @@
+locations:
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/component-0b.yaml
+    type: url
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/component-1.yaml
+    type: url
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/component-2.yaml
+    type: url
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/api-0b.yaml
+    type: url
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/api-1.yaml
+    type: url
+  - target: https://github.com/pmacik-testing/rhdh-perf-testing-repo/blob/main/pre-built/api-2.yaml
+    type: url
