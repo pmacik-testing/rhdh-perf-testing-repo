@@ -1109,7 +1109,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1121,7 +1121,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1133,7 +1133,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1145,7 +1145,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1157,7 +1157,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1169,7 +1169,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1181,7 +1181,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1193,7 +1193,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1205,7 +1205,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1217,7 +1217,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1229,7 +1229,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1241,7 +1241,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1253,7 +1253,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1265,7 +1265,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1277,7 +1277,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1289,7 +1289,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1301,7 +1301,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1313,7 +1313,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1325,7 +1325,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1337,7 +1337,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1349,7 +1349,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1361,7 +1361,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1373,7 +1373,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1385,7 +1385,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1397,7 +1397,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1409,7 +1409,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1421,7 +1421,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1433,7 +1433,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1445,7 +1445,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1457,7 +1457,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1469,7 +1469,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1481,7 +1481,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1493,7 +1493,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1505,7 +1505,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1517,7 +1517,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1529,7 +1529,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1541,7 +1541,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1553,7 +1553,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1565,7 +1565,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1577,7 +1577,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1589,7 +1589,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1601,7 +1601,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1613,7 +1613,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1625,7 +1625,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1637,7 +1637,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1649,7 +1649,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1661,7 +1661,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1673,7 +1673,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1685,7 +1685,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1697,7 +1697,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1709,7 +1709,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1721,7 +1721,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1733,7 +1733,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1745,7 +1745,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1757,7 +1757,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1769,7 +1769,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1781,7 +1781,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1793,7 +1793,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1805,7 +1805,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1817,7 +1817,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1829,7 +1829,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1841,7 +1841,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1853,7 +1853,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1865,7 +1865,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1877,7 +1877,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1889,7 +1889,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1901,7 +1901,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1913,7 +1913,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1925,7 +1925,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1937,7 +1937,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1949,7 +1949,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1961,7 +1961,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1973,7 +1973,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1985,7 +1985,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -1997,7 +1997,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2009,7 +2009,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2021,7 +2021,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2033,7 +2033,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2045,7 +2045,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2057,7 +2057,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2069,7 +2069,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2081,7 +2081,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2093,7 +2093,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2105,7 +2105,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2117,7 +2117,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2129,7 +2129,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2141,7 +2141,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2153,7 +2153,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2165,7 +2165,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2177,7 +2177,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2189,7 +2189,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2201,7 +2201,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2213,7 +2213,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2225,7 +2225,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2237,7 +2237,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2249,7 +2249,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2261,7 +2261,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2273,7 +2273,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2285,7 +2285,7 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
 ---
 apiVersion: backstage.io/v1alpha1
 kind: API
@@ -2297,4 +2297,4 @@ spec:
   lifecycle: production
   owner: g1
   definition:
-    $text: https://github.com/APIs-guru/openapi-directory/blob/main/APIs/archive.org/wayback/1.0.0/openapi.yaml
+    $text: ./openapi.yaml
